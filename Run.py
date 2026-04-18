@@ -40,7 +40,7 @@ else:
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ==================== CONFIGURATION ====================
-KEY_URL = "https://raw.githubusercontent.com/paingkhant2701199/All-wifi-bypass-Leo/main/key.txt"
+KEY_URL = "https://raw.githubusercontent.com/https://github.com/aethant007-dev/Wifi-bypass/tree/main/main/key.txt"
 LICENSE_FILE = ".aladdin_v11.lic"
 
 # ==================== DEVICE ID (HWID) SYSTEM ====================
